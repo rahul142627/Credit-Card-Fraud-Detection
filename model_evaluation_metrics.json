@@ -1,0 +1,24 @@
+{
+    "Logistic Regression": {
+        "precision": 0.98989898989899,
+        "recall": 1.0,
+        "f1_score": 0.9949238578680203,
+        "roc_auc": 1.0,
+        "pr_auc": 1.0,
+        "true_negatives": 56863,
+        "false_positives": 1,
+        "false_negatives": 0,
+        "true_positives": 98
+    },
+    "Random Forest": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "roc_auc": 1.0,
+        "pr_auc": 1.0,
+        "true_negatives": 56864,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "true_positives": 98
+    }
+}
